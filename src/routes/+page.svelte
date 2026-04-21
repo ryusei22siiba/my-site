@@ -81,7 +81,7 @@
   <div class="header">
     <div class="text">
       <h1>Ryusei Shiiba</h1>
-      <p>Researcher / Network Verification</p>
+      <p>Researcher at National Institute of Informatics.</p>
     </div>
 
     <img src="/skyme.jpg" alt="profile" />
@@ -141,7 +141,7 @@
 
   img {
     width: 80px;
-    height: 80px;
+    height: 100px;
     object-fit: cover;
   }
 </style>
