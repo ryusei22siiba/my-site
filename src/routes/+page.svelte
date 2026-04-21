@@ -75,7 +75,7 @@
 
 <main>
   <h1>{name}</h1>
-  <p>Researcher at National Institure of Informatics.</p>
+  <p>Researcher at National Institute of Informatics.</p>
 
   <section>
     <h2>About</h2>
