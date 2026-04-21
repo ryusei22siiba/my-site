@@ -11,7 +11,7 @@ const config = {
       fallback: 'index.html'
     }),
     paths: {
-      base: dev ? '' : '/ryusei22siiba'
+      base: dev ? '' : '/mysite'
     }
   }
 };
