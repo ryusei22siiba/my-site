@@ -13,13 +13,13 @@
       authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Kensuke Fukuda",
       venue: "IEEE INFOCOM 2026 (Poster)",
       link: "#"
-    }
+    },
     {
       title: "Topology-Driven Configuration of Emulation Networks With Deterministic Templating",
       authors: "Satoru Kobayashi, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda",
       venue: "IEEE TNSM 2025",
       link: "#"
-    }
+    },
     {
       title: "Refining specifications for configuration repair with side effect diagnosis",
       authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Kensuke Fukuda",
