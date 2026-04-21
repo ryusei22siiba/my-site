@@ -68,8 +68,12 @@
       venue: "ACM AINTEC 2021",
       link: "#"
     },
-
-
+    {
+      title: "Quickly Testing NIC and Driver Interactions by a Software-based NIC",
+      authors: "Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, and Shigeya Suzuki",
+      venue: "ACM CoNEXT Student Workshop 2020",
+      link: "#"
+    },
   ];
 </script>
 
