@@ -11,7 +11,8 @@ const config = {
       fallback: 'index.html'
     }),
     paths: {
-      base: dev ? '' : '/my-site'
+      base: dev ? '' : '/my-site',
+      assets: dev ? '' : '/my-site'
     }
   }
 };
