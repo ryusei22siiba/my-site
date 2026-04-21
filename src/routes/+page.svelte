@@ -78,8 +78,14 @@
 </script>
 
 <main>
-  <h1>{name}</h1>
-  <p>Researcher at National Institute of Informatics.</p>
+  <div class="header">
+    <div class="text">
+      <h1>Ryusei Shiiba</h1>
+      <p>Researcher / Network Verification</p>
+    </div>
+
+    <img src="/skyme.jpg" alt="profile" />
+  </div>
 
   <section>
     <h2>About</h2>
@@ -125,5 +131,17 @@
   a {
     text-decoration: none;
     color: #444;
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
   }
 </style>
