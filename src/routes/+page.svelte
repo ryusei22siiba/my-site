@@ -140,8 +140,8 @@
   }
 
   img {
-    width: 80px;
-    height: 100px;
+    width: 120px;
+    height: 150px;
     object-fit: cover;
   }
 </style>
