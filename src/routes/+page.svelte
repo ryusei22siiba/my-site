@@ -81,6 +81,7 @@
   <div class="header">
     <div class="text">
       <h1>Ryusei Shiiba</h1>
+      <p>Ph.D (Informatics).</p>
       <p>Researcher at National Institute of Informatics.</p>
     </div>
 
