@@ -28,7 +28,7 @@
     },
     {
       title: "Verifying network-level properties for large-scale networks with header transformations in realtime",
-      authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Kensuke Fukuda",
+      authors: "Ryusei Shiiba, Satoru Kobayashi, Osamu Akashi, Hiroki Shirokura,  Kensuke Fukuda",
       venue: "IPSJ Journal 2025",
       link: "#"
     },
