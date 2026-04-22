@@ -75,6 +75,16 @@
       link: "#"
     },
   ];
+
+  const talks = [
+    {
+      title: "Toward reliable network operations using formal verification techniques",
+      authors: "Ryusei Shiiba",
+      venue: "日本ソフトウェア科学界 40周年企画セッション「若手研究者特別講演」",
+      link: "#"
+    },
+  ];
+  
 </script>
 
 <main>
@@ -105,6 +115,16 @@
         {pub.authors}<br>
         {pub.venue}<br>
         <a href={pub.link}>[PDF]</a>
+      </li>
+    {/each}
+  </ul>
+  <ul>
+    {#each talks as tlk}
+      <li>
+        <strong>{tlk.title}</strong><br>
+        {tlk.authors}<br>
+        {tlk.venue}<br>
+        <a href={tlk.link}>[PDF]</a>
       </li>
     {/each}
   </ul>
