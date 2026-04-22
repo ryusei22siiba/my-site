@@ -118,16 +118,6 @@
       </li>
     {/each}
   </ul>
-  <ul>
-    {#each talks as tlk}
-      <li>
-        <strong>{tlk.title}</strong><br>
-        {tlk.authors}<br>
-        {tlk.venue}<br>
-        <a href={tlk.link}>[PDF]</a>
-      </li>
-    {/each}
-  </ul>
 </section>
 
 
