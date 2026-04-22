@@ -103,6 +103,9 @@
     <p>
       I work on symbolic network analysis and testing techniques, such as network verification, configuration repair, and control plane simulation.
     </p>
+    <p>
+      I am especially interested in how to specify network intents for symbolic network analysis tools and emerging non-deterministic systems (e.g., LLMs) in a reliable and safe manner.
+    </p>
   </section>
 
   <section>
