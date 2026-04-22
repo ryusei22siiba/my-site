@@ -80,7 +80,7 @@
     {
       title: "Toward reliable network operations using formal verification techniques",
       authors: "Ryusei Shiiba",
-      venue: "日本ソフトウェア科学界 40周年企画セッション「若手研究者特別講演」",
+      venue: "日本ソフトウェア科学界 40周年企画セッション「若手研究者特別講演」 2023",
       link: "#"
     },
   ];
