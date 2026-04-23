@@ -84,6 +84,15 @@
       link: "#"
     },
   ];
+
+  const thesis = [
+    {
+      title: "Towards Practical Network Verification and Repair in Real-World Networks",
+      authors: "Ryusei Shiiba",
+      venue: "March 2026, Ph.D thesis",
+      link: "#"
+    },
+  ];
   
 </script>
 
@@ -133,6 +142,20 @@
         {tlk.authors}<br>
         {tlk.venue}<br>
         <a href={tlk.link}>[PDF]</a>
+      </li>
+    {/each}
+  </ul>
+</section>
+
+  <section>
+  <h2>Thesis</h2>
+  <ul>
+    {#each thesis as ths}
+      <li>
+        <strong>{ths.title}</strong><br>
+        {ths.authors}<br>
+        {ths.venue}<br>
+        <a href={ths.link}>[PDF]</a>
       </li>
     {/each}
   </ul>
